@@ -10,7 +10,6 @@ A professional production-ready sentiment analysis web application built with Fa
 - 🔧 **Production Ready**: Comprehensive error handling and API documentation
 - 📊 **Real-time Results**: Instant sentiment analysis with confidence scores
 
-## Tech Stack
 
 ### Backend
 - **FastAPI**: Modern, fast web framework for building APIs
